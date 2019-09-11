@@ -1,3 +1,7 @@
+# Introduction
+
+_This repository will contain the materials for the "Introduction to Quantum Computing with Grover's Search" workshop, presented at Grace Hopper Celebration 2019. Meanwhile, if you want to learn more about quantum computing and Q# programming, check out the [Quantum Katas](https://github.com/Microsoft/QuantumKatas) project which contains more programming tutorials, including the [tutorial on Deutsch-Jozsa algorithm](https://github.com/microsoft/QuantumKatas/tree/master/tutorials/DeutschJozsaAlgorithm) featured at GHC 18._
+
 
 # Contributing
 
