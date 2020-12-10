@@ -1,3 +1,5 @@
+***This repository has been archived. Please refer to [this tutorial on Grover's search with Q#](https://github.com/microsoft/QuantumKatas/tree/main/tutorials/ExploringGroversAlgorithm) for the latest version of the tutorial.***
+
 # Introduction
 
 _This repository contains the materials for the "Introduction to Quantum Computing with Grover's Search" workshop, presented at Grace Hopper Celebration 2019._
